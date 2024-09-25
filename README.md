@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
-<h3 align="center">I am a student of Shri Shankaracharya Technical Campus, Bhilai and I am pursuing Btech in CSE with specialization in Data Science...</h3>
+<h3 align="center">I am a student of Shri Shankaracharya Technical Campus, Bhilai and I am pursuing Btech in CSE with a specialization in Data Science...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan4693&label=Profile%20views&color=0e75b6&style=flat" alt="rohan4693" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rohan.sstc@gmail.com**
 
-- ⚡ Fun fact **I am going to become a CS Engineer**
+- ⚡ Fun fact **I am going to become a Computer Science Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
