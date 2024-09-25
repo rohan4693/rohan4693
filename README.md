@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rohan.sstc@gmail.com**
 
-- ⚡ Fun fact **I am going become CS Engineer**
+- ⚡ Fun fact **I am going to become a CS Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
