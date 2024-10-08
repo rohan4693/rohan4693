@@ -11,7 +11,7 @@
 
 - 🔴Website **https://rohan1.my.canva.site/**
 
-- ⚡ Fun fact **I am going to become a Computer Science Engineer**
+- ⚡ Fun fact **Experimenting with college life...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
