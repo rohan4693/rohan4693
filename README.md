@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan4693" alt="rohan4693" /></a> </p>
 
-- 🌱 I’m currently learning ** Data Science **
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me:- **rohan.sstc@gmail.com**
 
-- 🌐Website:- **https://rohan1.my.canva.site/ **
+- 🌐Website:- **https://rohan1.my.canva.site/**
 
 - ⚡ Fun fact **Experimenting with college life...**
 
