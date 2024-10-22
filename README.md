@@ -11,7 +11,7 @@
 
 - 🌐Website:- **https://rohan1.my.canva.site/**
 
-- ⚡ Fun fact **Experimenting with college life...**
+- ⚡ Fun fact **Experimenting with college life**
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
