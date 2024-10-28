@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Rohan kr. Singh</h1>
 <h3 align="center">I am a student at Shri Shankaracharya Technical Campus, Bhilai, Chhattisgarh and I am pursuing Btech in CSE with a specialization in Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan4693&label=Profile%20views&color=0e75b6&style=flat" alt="rohan4693" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan4693&label=Profile%20views&color=0e75b6&style=flat" alt="rohan4693"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan4693" alt="rohan4693" /></a> </p>
 
