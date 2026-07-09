@@ -1,32 +1,27 @@
-<!-- 
+<!--
   Modern Product Analytics README
-  Aligned with: Junior Product Analyst → Senior Product Analyst / Growth Analytics
-  Theme: Dark, clean, data-driven, professional
+  Standard | Professional | No explicit client names
+  Animated feel via typing SVG
 -->
 <div align="center">
-<!-- Banner - Upload banner.svg to your repo and update the path below -->
-<img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/banner.svg" width="100%" alt="Product Analytics Banner"/>
+<!-- Static Banner -->
+<img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/banner.png" width="100%" alt="Product Analytics Banner"/>
 <br/><br/>
+<!-- Animated Typing Header (GIF-like effect) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Product+Analyst;Data+Storyteller;User+Behavior+Investigator;SQL+%7C+Python+%7C+Analytics" alt="Typing Animation"/>
+<br/>
 <!-- Role Badge -->
-<a href="https://www.linkedin.com/in/rohan-singh-408549214">
-  <img src="https://img.shields.io/badge/Junior_Product_Analyst-Riverhouse_Technologies-2ea44f?style=for-the-badge&logo=producthunt&logoColor=white" alt="Role"/>
-</a>
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=rohan4693&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/badge/Role-Junior_Product_Analyst-2ea44f?style=for-the-badge&logo=producthunt&logoColor=white" alt="Role"/>
+<img src="https://img.shields.io/badge/Focus-User+Experience+Analytics-0077b5?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Focus"/>
+<img src="https://komarev.com/ghpvc/?username=rohan4693&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </div>
-<h1 align="center">Rohan Singh</h1>
-<h3 align="center">Product Analyst • Data Storyteller • User Behavior Investigator</h3>
-<p align="center">
-  <em>Turning session replays into SQL queries, and SQL queries into product decisions.</em>
-</p>
-🎯 Currently
-Junior Product Analyst at Riverhouse Technologies, Bhilai
-Working on Truleague — analyzing user journeys, identifying friction points, and shipping better experiences for US college ambassadors, prospects, and admins.
-🔍 Daily: UXCam & Hotjar session analysis, Mixpanel funnel exploration, Redash SQL queries
-🐛 Tracking: Usability issues, loading delays, auth flows, chat experience, scheduling behavior
-📊 Shipping: Product Investigation Logs, UX Digests, and data-backed recommendations
-🛠️ Product Analytics Stack
-Data & Query
+🎯 About Me
+Junior Product Analyst working on a US-based college sports platform. I bridge the gap between raw user behavior and actionable product decisions.
+Daily work: Session replay analysis, funnel exploration, SQL-driven insights, and UX friction identification
+Mindset: Every data point is a user story. Every story needs a decision.
+Goal: Master the craft of product analytics and grow into a senior decision-making role
+🛠️ Analytics Stack
+Query & Data
  SQL 
 
  Python 
@@ -38,7 +33,7 @@ Data & Query
  Matplotlib 
 
  Plotly 
-Product & UX
+Product & UX Tools
  Mixpanel 
 
  Hotjar 
@@ -48,7 +43,7 @@ Product & UX
  Sentry 
 
  Figma 
-Dev & Workflow
+Workflow & Dev
  Git 
 
  GitHub 
@@ -61,26 +56,26 @@ Dev & Workflow
 📈 What I Do
 Table
 Investigate	Analyze	Recommend
-Session replays (Hotjar / UXCam)	SQL queries & cohort analysis	Data-backed product decisions
+Session replays & heatmaps	SQL queries & cohort analysis	Data-backed product decisions
 Funnel drop-offs & friction points	Python visualization & reporting	Prioritized UX improvements
 Bug patterns & user complaints	Statistical trend identification	A/B test hypotheses
-🔍 Featured Investigations
-Product Investigation Framework I use at work:
+🔍 Investigation Framework
+How I structure product findings:
 Table
 Topic	Observation	Hypothesis	Evidence	Confidence	Status
-Scheduling	Ambassadors skip platform scheduling	Zoom is preferred for familiarity	12 sessions	Medium	Testing
+Scheduling	Users skip in-app scheduling	External tools preferred	12 sessions	Medium	Testing
 Chat Load	18–20s load time on chat screen	Unoptimized message fetch	8 sessions	High	In Progress
-Auth Flow	Login gate appears after message typing	Friction in user journey	15 sessions	High	Backlog
+Auth Flow	Login gate appears after input effort	Friction in user journey	15 sessions	High	Backlog
 🚀 Projects
 Weather & Air Quality Monitoring
 Flask + SQLite + Plotly dashboard for real-time environmental data visualization.
 Skills: Python, Data Visualization, SQL, Web Dashboards
-Truleague Product Analysis
-Internal analytics templates: funnel queries, retention cohorts, and session investigation logs.
-Skills: Product Analytics, SQL, User Behavior Analysis
-Product Insight Templates
-Standardized reporting formats for UXCam + Hotjar digests and daily product insights.
-Skills: Documentation, Product Thinking, Data Communication
+Product Analytics Templates
+Reusable SQL queries, funnel analysis scripts, and standardized reporting formats for product teams.
+Skills: Product Analytics, SQL, User Behavior Analysis, Documentation
+Session Investigation Logs
+Structured templates for translating UX session replays into actionable product tickets.
+Skills: UX Research, Product Thinking, Data Communication
 📊 GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rohan4693&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" />
