@@ -1,12 +1,12 @@
 <!--
-  Final Product Analytics README
-  Dashboard-grade | GIF animations | Zero developer clutter
+  Clean Product Analytics README
+  Only what you are confident showing
 -->
 <div align="center">
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@700&size=32&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Product+Analyst;Data+Storyteller;User+Behavior+Investigator;SQL+%E2%80%A2+Python+%E2%80%A2+Analytics" alt="Typing Animation"/>
 <br/><br/>
-<!-- Improved Banner -->
+<!-- Banner -->
 <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/banner_v2.png" width="100%" alt="Analytics Dashboard Banner"/>
 <br/><br/>
 <!-- Role Badges -->
@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/Domain-EdTech_/_Sports_Tech-ff6b6b?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=rohan4693&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </div>
-<!-- IMPACT METRICS DASHBOARD -->
+<!-- IMPACT METRICS -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/metrics.svg" width="100%" alt="Impact Metrics Dashboard"/>
+  <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/metrics.svg" width="100%" alt="Impact Metrics"/>
 </div>
-<!-- ANALYTICS PIPELINE FLOW -->
+<!-- ANALYTICS PIPELINE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/pipeline.svg" width="100%" alt="Analytics Pipeline"/>
 </div>
@@ -27,31 +27,23 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/skills.svg" width="100%" alt="Skill Matrix"/>
 </div>
-<!-- TOOLKIT GRID -->
+<!-- TOOLKIT -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/toolkit.svg" width="100%" alt="Analytics Toolkit"/>
 </div>
 🔍 Investigation Framework
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th align="center" width="12%">📋 Topic</th>
-      <th align="center" width="22%">👁️ Observation</th>
-      <th align="center" width="22%">💡 Hypothesis</th>
-      <th align="center" width="12%">📊 Evidence</th>
-      <th align="center" width="12%">🎯 Confidence</th>
-      <th align="center" width="12%">🚦 Status</th>
-    </tr>
-  </thead>
-</table>
+Table
+Topic	Observation	Hypothesis	Evidence	Confidence	Status
+Scheduling	Users skip in-app scheduling	External tools preferred	12 sessions	Medium	Testing
+Chat Load	18–20s load on chat screen	Unoptimized fetch	8 sessions	High	In Progress
+Auth Flow	Login gate after input effort	Journey friction	15 sessions	High	Backlog
 </div>
-
 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan4693&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0883e&hide_border=true&area=true&area_color=58a6ff20" width="100%"/>
-## 🐍 Contribution Snake
-
+</div>
+🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
 </div>
@@ -59,10 +51,10 @@
 <div align="center">
 Table
 Quarter	Focus Area	Target	Progress
-Q3 2026	Advanced SQL (Window functions, CTEs, optimization)	████████░░	80%
-Q4 2026	Python for Product Analytics (Pandas, cohorts, automation)	██████░░░░	60%
-Q1 2027	Statistical Product Decisions (A/B testing, significance)	████░░░░░░	40%
-Q2 2027	Data Storytelling (Narratives that drive action)	██░░░░░░░░	20%
+Q3 2026	Advanced SQL (Window functions, CTEs)	████████░░	80%
+Q4 2026	Python for Product Analytics	██████░░░░	60%
+Q1 2027	Statistical Product Decisions	████░░░░░░	40%
+Q2 2027	Data Storytelling	██░░░░░░░░	20%
 </div>
 🎓 Education
 <div align="center">
