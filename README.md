@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@600&size=32&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Product+Analyst;Data+Storyteller;User+Behavior+Investigator;SQL+%E2%80%A2+Python+%E2%80%A2+Analytics" alt="Typing Animation"/>
 <br/><br/>
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/banner.png" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/banner_v2.png" width="100%" alt="Banner"/>
 <br/><br/>
 <!-- Role Badges -->
 <img src="https://img.shields.io/badge/Role-Junior_Product_Analyst-2ea44f?style=for-the-badge&logo=producthunt&logoColor=white"/>
