@@ -53,11 +53,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan4693/rohan4693/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohan4693/rohan4693/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rohan4693/rohan4693/output/dist/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/output/dist/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
 </div>
 🌱 Growth Tracker
 <div align="center">
