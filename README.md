@@ -106,14 +106,7 @@
   </tr>
 </table>
 </div>
-📊 GitHub Analytics
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rohan4693&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=f0f6fc&bg_color=0d1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan4693&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=f0f6fc&bg_color=0d1117"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan4693&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f0883e&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58"/>
-</div>
+
 🌱 Growth Tracker
 <div align="center">
 Table
