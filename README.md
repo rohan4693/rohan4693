@@ -150,8 +150,4 @@ Q2 2027	Data Storytelling (Narratives that drive action)	██░░░░░�
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 </div>
-<div align="center">
-<img src="https://img.shields.io/badge/Philosophy-Describe_%7C_Diagnose_%7C_Prescribe-58a6ff?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<br/><br/>
-<sub>
-</div>
+
