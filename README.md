@@ -50,10 +50,14 @@
 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan4693&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0883e&hide_border=true&area=true&area_color=58a6ff20" width="100%"/>
-</div>
-🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://github.com/rohan4693/rohan4693/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan4693/rohan4693/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohan4693/rohan4693/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rohan4693/rohan4693/output/dist/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
 🌱 Growth Tracker
 <div align="center">
