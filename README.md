@@ -1,13 +1,13 @@
 <!--
-  Ultra-Modern Product Analytics README
-  Dashboard-style | Visual-first | No explicit client names
+  Final Product Analytics README
+  Dashboard-grade | GIF animations | Zero developer clutter
 -->
 <div align="center">
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@600&size=32&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Product+Analyst;Data+Storyteller;User+Behavior+Investigator;SQL+%E2%80%A2+Python+%E2%80%A2+Analytics" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@700&size=32&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Product+Analyst;Data+Storyteller;User+Behavior+Investigator;SQL+%E2%80%A2+Python+%E2%80%A2+Analytics" alt="Typing Animation"/>
 <br/><br/>
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/banner_v2.png" width="100%" alt="Banner"/>
+<!-- Improved Banner -->
+<img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/banner_v2.png" width="100%" alt="Analytics Dashboard Banner"/>
 <br/><br/>
 <!-- Role Badges -->
 <img src="https://img.shields.io/badge/Role-Junior_Product_Analyst-2ea44f?style=for-the-badge&logo=producthunt&logoColor=white"/>
@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/Domain-EdTech_/_Sports_Tech-ff6b6b?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=rohan4693&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </div>
-<!-- METRICS DASHBOARD -->
+<!-- IMPACT METRICS DASHBOARD -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/metrics.svg" width="100%" alt="Impact Metrics"/>
+  <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/metrics.svg" width="100%" alt="Impact Metrics Dashboard"/>
 </div>
-<!-- ANALYTICS PIPELINE -->
+<!-- ANALYTICS PIPELINE FLOW -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/pipeline.svg" width="100%" alt="Analytics Pipeline"/>
 </div>
@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/skills.svg" width="100%" alt="Skill Matrix"/>
 </div>
-<!-- TOOLKIT -->
+<!-- TOOLKIT GRID -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/main/toolkit.svg" width="100%" alt="Analytics Toolkit"/>
 </div>
@@ -44,69 +44,17 @@
       <th align="center" width="12%">🚦 Status</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>Scheduling</b></td>
-      <td align="center">Users skip in-app scheduling flow</td>
-      <td align="center">External tools preferred for familiarity</td>
-      <td align="center"><code>12 sessions</code></td>
-      <td align="center"><span style="color:#ffd700">● Medium</span></td>
-      <td align="center"><span style="color:#58a6ff">🧪 Testing</span></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Chat Load</b></td>
-      <td align="center">18–20s load time on chat screen</td>
-      <td align="center">Unoptimized message fetch on open</td>
-      <td align="center"><code>8 sessions</code></td>
-      <td align="center"><span style="color:#238636">● High</span></td>
-      <td align="center"><span style="color:#f0883e">🔧 In Progress</span></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Auth Flow</b></td>
-      <td align="center">Login gate appears after input effort</td>
-      <td align="center">Friction point in user journey</td>
-      <td align="center"><code>15 sessions</code></td>
-      <td align="center"><span style="color:#238636">● High</span></td>
-      <td align="center"><span style="color:#a371f7">📋 Backlog</span></td>
-    </tr>
-  </tbody>
-</table>
-</div>
-🚀 Project Showcase
-<div align="center">
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/rohan4693/weather-air-quality">
-        <img src="https://img.shields.io/badge/Weather_&_Air_Quality-238636?style=for-the-badge&logo=plotly&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <sub>Flask + SQLite + Plotly dashboard for real-time environmental monitoring</sub>
-      <br/>
-      <sub><code>Python</code> <code>SQL</code> <code>Data Viz</code></sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/rohan4693/product-analytics-templates">
-        <img src="https://img.shields.io/badge/Product_Analytics_Templates-58a6ff?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <sub>Reusable SQL queries, funnel scripts, and reporting formats for product teams</sub>
-      <br/>
-      <sub><code>SQL</code> <code>Python</code> <code>Analytics</code></sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/rohan4693/session-investigation-logs">
-        <img src="https://img.shields.io/badge/Session_Investigation_Logs-a371f7?style=for-the-badge&logo=hotjar&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <sub>Structured templates translating UX replays into actionable product tickets</sub>
-      <br/>
-      <sub><code>UX Research</code> <code>Product Thinking</code></sub>
-    </td>
-  </tr>
 </table>
 </div>
 
+📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan4693&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0883e&hide_border=true&area=true&area_color=58a6ff20" width="100%"/>
+</div>
+🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/rohan4693/rohan4693/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
+</div>
 🌱 Growth Tracker
 <div align="center">
 Table
@@ -143,4 +91,8 @@ Q2 2027	Data Storytelling (Narratives that drive action)	██░░░░░�
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 </div>
-
+<div align="center">
+<img src="https://img.shields.io/badge/Philosophy-Describe_%7C_Diagnose_%7C_Prescribe-58a6ff?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<br/><br/>
+<sub>
+</div>
