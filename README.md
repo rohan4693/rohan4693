@@ -1,154 +1,170 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║          ROHAN SINGH · DATA SCIENCE · CSE GRAD             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=220&section=header&text=Rohan%20Singh&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=CSE%20(Data%20Science)%20Graduate%20%E2%80%A2%20Turning%20Data%20into%20Decisions&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
-<!-- TYPING ANIMATION -->
+<!--
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  ROHAN SINGH  ·  DATA SCIENTIST  ·  CSE (DATA SCIENCE) GRADUATE   ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+-->
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=180&section=header&text=Rohan%20Singh&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=CSE%20(Data%20Science)%20Graduate%20%7C%20Turning%20Data%20into%20Decisions&descSize=14&descColor=8b949e&descAlignY=60" width="100%"/>
+<!-- Typing Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%93%8A+Data+Science+%7C+Analytics+%7C+ML;SQL+%E2%80%A2+Python+%E2%80%A2+Tableau+%E2%80%A2+Power+BI" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%F0%9F%93%8A++Data+Science+%7C+Analytics+%7C+Machine+Learning;SQL+%E2%80%A2+Python+%E2%80%A2+Pandas+%E2%80%A2+Scikit-Learn+%E2%80%A2+Tableau" alt="Typing Animation"/>
+</div>
+<!-- Role Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_Fresh_Graduate-CSE_Data_Science-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%8D_Open_To-Data_Roles_&_Analytics-2ea44f?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-India-f0883e?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=rohan4693&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+</div>
 <br/>
-<!-- ROLE BADGES -->
-[![Role](https://img.shields.io/badge/🎓_Fresh_Graduate-CSE_Data_Science-58a6ff?style=for-the-badge&labelColor=0d1117)](https://github.com/rohan4693)
-[![Focus](https://img.shields.io/badge/🎯_Focus-Data_Analytics_&_ML-f0883e?style=for-the-badge&labelColor=0d1117)](https://github.com/rohan4693)
-[![Open](https://img.shields.io/badge/🚀_Open_To-Data_Roles-2ea44f?style=for-the-badge&labelColor=0d1117)](https://github.com/rohan4693)
-![Views](https://komarev.com/ghpvc/?username=rohan4693&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=0d1117)
-</div>
----
-<!-- ABOUT ME -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                        TERMINAL: WHOAMI                            -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                         ABOUT ME                                ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  🎓  B.Tech CSE (Data Science) — Recent Graduate                ║
-║  📊  Passionate about extracting insights from raw data          ║
-║  🤖  Building skills in ML, Deep Learning & Analytics            ║
-║  🔍  Love solving problems with data-driven approaches           ║
-║  📍  India                                                       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+bash
+$ whoami
+rohan
+
+$ cat /etc/profile.d/about.sh
+# ┌─────────────────────────────────────────────────────────────────┐
+# │  🎓  B.Tech CSE (Data Science) — Recent Graduate               │
+# │  🏫  Shri Shankaracharya Technical Campus, Bhilai              │
+# │  📊  Passionate about extracting insights from raw data        │
+# │  🤖  Building expertise in ML, Deep Learning & Analytics       │
+# │  🔍  Love solving problems with data-driven approaches         │
+# └─────────────────────────────────────────────────────────────────┘
 </div>
----
-<!-- DATA PIPELINE VISUALIZATION -->
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=3000&color=58A6FF&vCenter=true&repeat=true&width=300&height=25&lines=%E2%9A%99%EF%B8%8F+My+Data+Pipeline" alt="pipeline"/>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                     TERMINAL: SYSTEM STATUS                        -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-```
-   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-   │  📥 COLLECT  │────▶│  🧹 CLEAN   │────▶│  📊 ANALYZE │────▶│  🤖 MODEL   │────▶│  📈 DEPLOY  │
-   │             │     │             │     │             │     │             │     │             │
-   │  SQL        │     │  Pandas     │     │  EDA        │     │  Scikit     │     │  Tableau    │
-   │  APIs       │     │  NumPy      │     │  Statistics │     │  TensorFlow │     │  Power BI   │
-   │  Web Scrape │     │  Regex      │     │  Matplotlib │     │  XGBoost    │     │  Streamlit  │
-   └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
-```
+bash
+$ ps aux | grep rohan
+USER       PID  %CPU %MEM   STAT   COMMAND
+rohan     1001   85    -    R+     python data_analysis.py
+rohan     1002   72    -    R+     jupyter notebook
+rohan     1003   60    -    S+     tensorflow_model.train
+rohan     1004   40    -    S+     sql_query_optimization.sql
+rohan     1005   --    -    R+     [open_to_opportunities]
 </div>
----
-<!-- TECH STACK -->
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=3000&color=58A6FF&vCenter=true&repeat=true&width=300&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="tech"/>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                     TERMINAL: SKILL PACKAGES                       -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=python,r,mysql,cpp,java&theme=dark)](https://skillicons.dev)
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-### 📈 Visualization & BI
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-### 🔧 Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+bash
+$ pip list | grep -E "data|ml|viz"
+Package            Version    Summary
+─────────────────────────────────────────────────────────────────
+pandas             2.1.4      Data Manipulation & Analysis
+numpy              1.26.0     Numerical Computing
+scikit-learn       1.3.2      Machine Learning Toolkit
+tensorflow         2.15.0     Deep Learning Framework
+matplotlib         3.8.0      Data Visualization
+seaborn            0.13.0     Statistical Visualization
+jupyter            7.0.0      Interactive Computing
+sqlalchemy         2.0.0      SQL Toolkit & ORM
+bash
+$ conda list | grep -E "bi|tool"
+Package            Version    Summary
+─────────────────────────────────────────────────────────────────
+tableau            2024.1     Business Intelligence
+powerbi            latest     Microsoft BI Platform
+excel              advanced   Data Analysis & Pivoting
+git                2.42       Version Control
+vscode             1.85       Code Editor
+linux              ubuntu     Operating System
 </div>
----
-<!-- SKILL BARS -->
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=3000&color=58A6FF&vCenter=true&repeat=true&width=300&height=25&lines=%F0%9F%93%88+Skill+Levels" alt="skills"/>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                     TERMINAL: DISK USAGE (SKILLS)                  -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-```
-Python           ████████████████████░░░░   80%  ██ Strong
-SQL              ██████████████████████░░   88%  ██ Strong  
-Pandas / NumPy   ████████████████████░░░░   80%  ██ Strong
-Machine Learning ██████████████████░░░░░░   72%  ██ Growing
-Data Viz         ████████████████████░░░░   80%  ██ Strong
-Tableau          ████████████████░░░░░░░░   64%  ██ Growing
-Power BI         ██████████████░░░░░░░░░░   56%  ██ Growing
-Deep Learning    ████████████░░░░░░░░░░░░   48%  ██ Learning
-Statistics       ████████████████████░░░░   80%  ██ Strong
-```
+bash
+$ df -h /dev/learning
+Filesystem        Size   Used   Avail   Use%   Mounted on
+─────────────────────────────────────────────────────────────────
+Python            100G    82G     18G    82%   /skills/python
+SQL               100G    90G     10G    90%   /skills/sql
+Pandas/NumPy      100G    80G     20G    80%   /skills/data-wrangling
+Machine-Learning  100G    74G     26G    74%   /skills/ml
+Data-Viz          100G    78G     22G    78%   /skills/visualization
+Tableau           100G    65G     35G    65%   /skills/tableau
+Deep-Learning     100G    50G     50G    50%   /skills/dl
+Statistics        100G    82G     18G    82%   /skills/stats
 </div>
----
-<!-- GITHUB STATS -->
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=3000&color=58A6FF&vCenter=true&repeat=true&width=300&height=25&lines=%F0%9F%93%8A+GitHub+Stats" alt="stats"/>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                     TERMINAL: PROJECT DIRECTORY                    -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rohan4693&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan4693&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" height="180"/>
+bash
+$ ls -la ~/github/repos/
+total 32
+drwxr-xr-x  .  ..  
+drwxr-xr-x  carbon-emission-predictor/      ML | Jupyter | Environmental Analytics
+drwxr-xr-x  ai-campus-tracker/              React | Node.js | MongoDB | Gemini AI
+drwxr-xr-x  portfolio/                      HTML | CSS | JavaScript | Personal Brand
+drwxr-xr-x  todo-flask/                     Python | Flask | Web Development
+drwxr-xr-x  codelaplha-tasks/               Python | Internship | CodeAlpha Program
+</div>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB ANALYTICS                            -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+bash
+$ gh stats --user rohan4693 --theme dark
+<img src="https://github-readme-stats.vercel.app/api?username=rohan4693&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true&custom_title=GitHub%20Analytics" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan4693&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8&custom_title=Top%20Languages" height="170"/>
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohan4693&theme=github-dark-blue&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohan4693&theme=github-dark-blue&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="55%"/>
 </div>
----
-<!-- ACTIVITY GRAPH -->
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=3000&color=58A6FF&vCenter=true&repeat=true&width=300&height=25&lines=%F0%9F%93%88+Activity+Graph" alt="graph"/>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                        ACTIVITY GRAPH                              -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan4693&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0883e&hide_border=true&area=true&area_color=58a6ff20" width="100%"/>
+bash
+$ gh activity --user rohan4693 --graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan4693&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0883e&hide_border=true&area=true&area_color=58a6ff20" width="95%"/>
 </div>
----
-<!-- CONTRIBUTION SNAKE -->
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=3000&color=58A6FF&vCenter=true&repeat=true&width=350&height=25&lines=%F0%9F%90%8D+Contribution+Snake" alt="snake"/>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                        CONTRIBUTION SNAKE                          -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
+bash
+$ python snake_game.py --mode contribution-grid
+<img src="https://raw.githubusercontent.com/rohan4693/rohan4693/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake Animation"/>
 </div>
----
-<!-- LEARNING ROADMAP -->
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=3000&color=58A6FF&vCenter=true&repeat=true&width=350&height=25&lines=%F0%9F%97%BA%EF%B8%8F+Learning+Roadmap" alt="roadmap"/>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                     TERMINAL: LEARNING QUEUE                       -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-```
-                    🗺️ MY DATA SCIENCE JOURNEY
-     ─────────────────────────────────────────────────
-     ✅ COMPLETED                🔄 IN PROGRESS           📋 PLANNED
-     ────────────                ────────────────           ──────────
-     Python Basics               Advanced ML               MLOps
-     SQL & Databases             Deep Learning              Cloud (AWS)
-     EDA & Statistics            NLP Basics                 Big Data
-     Data Visualization          Feature Engineering        A/B Testing
-     Pandas & NumPy              Model Optimization         Data Engineering
-     Scikit-Learn                Time Series                Production ML
-```
+bash
+$ queue status --learning-roadmap
+┌──────────┬──────────────────────────────┬──────────┬────────────────────────┐
+│ Quarter  │ Focus Area                   │ Status   │ Progress               │
+├──────────┼──────────────────────────────┼──────────┼────────────────────────┤
+│ ✅ Done  │ Python + SQL + EDA           │ Complete │ ████████████████████   │
+│ ✅ Done  │ ML Fundamentals              │ Complete │ ████████████████████   │
+│ 🔄 Now   │ Deep Learning & NLP          │ Active   │ ████████████░░░░░░░░   │
+│ 📋 Next  │ MLOps & Deployment           │ Queued   │ ████░░░░░░░░░░░░░░░░   │
+│ 📋 2027  │ Cloud & Big Data             │ Queued   │ ██░░░░░░░░░░░░░░░░░░   │
+└──────────┴──────────────────────────────┴──────────┴────────────────────────┘
 </div>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                     TERMINAL: PING CONNECT                         -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-| Quarter | Focus Area | Target | Progress |
-|:-------:|:----------:|:------:|:--------:|
-| ✅ Done | Python + SQL + EDA | Core Skills | `████████████████████` 100% |
-| ✅ Done | ML Fundamentals | Scikit-Learn | `████████████████████` 100% |
-| 🔄 Now | Deep Learning & NLP | TensorFlow | `████████████░░░░░░░░` 60% |
-| 📋 Next | MLOps & Deployment | Streamlit + Docker | `████░░░░░░░░░░░░░░░░` 20% |
-| 📋 2027 | Cloud & Big Data | AWS + Spark | `██░░░░░░░░░░░░░░░░░░` 10% |
-</div>
----
-<!-- EDUCATION -->
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=3000&color=58A6FF&vCenter=true&repeat=true&width=300&height=25&lines=%F0%9F%8E%93+Education" alt="edu"/>
-<div align="center">
-```
- ┌──────────────────────────────────────────────────────────────┐
- │  🎓  B.Tech in Computer Science & Engineering               │
- │      Specialization: Data Science                           │
- │      Shri Shankaracharya Technical Campus, Bhilai           │
- │      Status: Recently Graduated ✅                           │
- ├──────────────────────────────────────────────────────────────┤
- │  🏫  DAV Public School                                      │
- │      NIT Campus, Jamshedpur                                 │
- └──────────────────────────────────────────────────────────────┘
-```
-</div>
----
-<!-- CONNECT -->
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=3000&color=58A6FF&vCenter=true&repeat=true&width=300&height=25&lines=%F0%9F%8C%90+Let's+Connect" alt="connect"/>
-<div align="center">
+bash
+$ ping -c 3 rohan.sstc@gmail.com
+PING rohan.sstc@gmail.com: 64 bytes of data
+64 bytes from gmail.com: seq=0 ttl=64 time=0.8ms  ✉️  Email Reachable
+
+$ ping -c 3 linkedin.com/in/rohan-singh-408549214
+PING linkedin.com: 64 bytes of data
+64 bytes from linkedin.com: seq=0 ttl=64 time=1.2ms  💼  LinkedIn Active
+
+$ ping -c 3 rohan4693.github.io/Portfolio/
+PING portfolio: 64 bytes of data
+64 bytes from github.io: seq=0 ttl=64 time=0.5ms  🌐  Portfolio Live
+<br/>
 <a href="mailto:rohan.sstc@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
@@ -158,15 +174,17 @@ Statistics       ████████████████████░
 <a href="https://rohan4693.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117"/>
 </a>
-<br/><br/>
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   💡  "Without data, you're just another person              ║
-║        with an opinion."  — W. Edwards Deming                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 </div>
-<!-- ANIMATED WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=120&section=footer" width="100%"/>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                        CLOSING QUOTE                               -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+bash
+$ fortune | grep data
+💡  "In God we trust. All others must bring data."
+                — W. Edwards Deming
+<br/>
+<img src="https://img.shields.io/badge/Philosophy-Collect_%7C_Clean_%7C_Analyze_%7C_Model_%7C_Deploy-58a6ff?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTMgMmwtMyAxdjE4bDMgMXYtMjB6bTExIDlsLTMgLTN2MTJsMy0zdi02em0tMTEgMTFsMyAxdi0xOGwtMy0xdjE4em0tMTEtOWwzIDN2LTEybC0zIDN2NnoiLz48L3N2Zz4="/>
+</div>
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
