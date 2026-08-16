@@ -2,10 +2,7 @@
   ║  DATA LAB · ROHAN SINGH · CSE (DATA SCIENCE) GRADUATE              ║
   ╚════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- SNAKE — KEEP EXACTLY -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/output/github-contribution-grid-snake.svg" width="100%" alt=""/>
-</p>
+
 
 <h1 align="center">Rohan Singh</h1>
 
@@ -149,6 +146,12 @@ journey
 📍 NIT Campus, Jamshedpur
 
 ---
+
+
+<!-- SNAKE — KEEP EXACTLY -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/output/github-contribution-grid-snake.svg" width="100%" alt=""/>
+</p>
 
 ## 🌐 Connect
 
