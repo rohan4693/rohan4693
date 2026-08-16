@@ -1,41 +1,56 @@
-<!-- Animated Wave Header -->
-<!-- Typing Animation: Data Science | Analytics | ML -->
-<!-- Badges: Fresh Graduate | Open to Data Roles | India -->
-
-$ whoami
-rohan
-$ cat /etc/profile.d/about.sh
-# B.Tech CSE (Data Science) — Recent Graduate
-# Shri Shankaracharya Technical Campus, Bhilai
-
-$ ps aux | grep rohan
-rohan  python data_analysis.py      RUNNING
-rohan  jupyter notebook             RUNNING
-rohan  tensorflow_model.train       RUNNING
-rohan  [open_to_opportunities]      RUNNING
-
-$ pip list | grep data
-pandas        2.1.4   Data Manipulation
-numpy         1.26.0  Numerical Computing
-scikit-learn  1.3.2   Machine Learning
-tensorflow    2.15.0  Deep Learning
-
-$ df -h /dev/learning
-Python           82%  ████████████████████░░
-SQL              90%  █████████████████████░
-Machine-Learning 74%  ████████████████░░░░░░
-
-$ ls -la ~/github/repos/
-carbon-emission-predictor/   ML | Jupyter
-ai-campus-tracker/           React | Node.js | MongoDB | Gemini AI
-portfolio/                   HTML | CSS | JavaScript
-todo-flask/                  Python | Flask
-codelaplha-tasks/            Python | Internship
-
-[GitHub Stats]
-[Activity Graph]
-[Snake Animation]
-
-$ ping rohan.sstc@gmail.com          ✉️  Email Reachable
-$ ping linkedin.com/in/rohan-singh   💼  LinkedIn Active
-$ ping rohan4693.github.io/Portfolio 🌐  Portfolio Live
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  ROHAN SINGH · DATA SCIENTIST · CSE (DATA SCIENCE) GRADUATE      -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- SNAKE — KEEP THIS EXACTLY -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan4693/rohan4693/output/github-contribution-grid-snake.svg" width="100%" alt=""/>
+</p>
+<h1 align="center">Rohan Singh</h1>
+<p align="center"><i>CSE (Data Science) Graduate · Turning Raw Data into Actionable Insights</i></p>
+<p align="center">🎓 Fresh Graduate · 🔍 Open to Data Roles · 📍 Bhilai, India</p>
+📋 About
+B.Tech in Computer Science & Engineering (Data Science) from Shri Shankaracharya Technical Campus, Bhilai. I extract patterns from raw data, build predictive models, and translate complex datasets into stories that drive decisions. Currently sharpening skills in Deep Learning, NLP, and MLOps while seeking opportunities in Data Analytics and Data Science.
+⚙️ Data Pipeline
+plain
+   📥 COLLECT          🧹 CLEAN           📊 ANALYZE          🤖 MODEL           📈 DEPLOY
+   ─────────          ───────           ─────────          ───────           ────────
+   SQL                Pandas            EDA                Scikit-Learn      Tableau
+   APIs               NumPy             Statistics         TensorFlow        Power BI
+   Web Scraping       Regex             Visualization      XGBoost           Streamlit
+📊 Skill Spectrum
+Table
+Skill	Proficiency
+SQL	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 90%
+Python	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 82%
+Statistics	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 82%
+Pandas / NumPy	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 80%
+Data Visualization	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 78%
+Machine Learning	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 74%
+Tableau	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░ 65%
+Deep Learning	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 50%
+🗂️ Projects
+Table
+#	Project	Tech Stack	Description
+1	Carbon Emission Predictor	Python · Jupyter · ML	Predicts carbon emissions using ML models
+2	AI Campus Tracker	React · Node.js · MongoDB · Gemini	AI-powered campus issue tracking
+3	Portfolio	HTML · CSS · JavaScript	Personal brand website
+4	To-Do App	Python · Flask	Task management app
+5	CodeAlpha Tasks	Python	Internship assignments
+🗺️ Learning Curve
+Table
+Phase	Focus	Status	Progress
+✅	Python + SQL + EDA	Complete	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+✅	ML Fundamentals	Complete	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+🔄	Deep Learning & NLP	Active	▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░
+⏳	MLOps & Deployment	Planned	▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+⏳	Cloud & Big Data	Planned	▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+🎓 Education
+B.Tech — Computer Science & Engineering (Data Science)
+Shri Shankaracharya Technical Campus, Bhilai · Recently Graduated ✅
+DAV Public School, NIT Campus Jamshedpur
+🌐 Connect
+📧 rohan.sstc@gmail.com
+💼 linkedin.com/in/rohan-singh-408549214
+🌐 rohan4693.github.io/Portfolio
+<p align="center"><i>"In God we trust. All others must bring data."</i> — W. Edwards Deming</p>
+<p align="center"><code>Collect → Clean → Analyze → Model → Deploy</code></p>
