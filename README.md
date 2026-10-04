@@ -9,13 +9,9 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🧬 who i am
+### who i am
 
 I'm a **Junior Product Analyst at Truleague** (Riverhouse Technologies) — a B2B SaaS startup. 
-
---
-
-
 
 ### 📈 activity
 
