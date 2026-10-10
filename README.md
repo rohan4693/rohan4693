@@ -1,7 +1,7 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Rohan%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Product%20Analytics%20%7C%20Data%20Engineering%20%7C%20Cloud&descAlignY=58&descSize=15" width="100%" alt="Rohan Singh"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Rohan%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Product%20Analytics%20%7C%20%7C%20Cloud&descAlignY=58&descSize=15" width="100%" alt="Rohan Singh"/>
 </p>
 
 ## About
