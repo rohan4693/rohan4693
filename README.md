@@ -11,7 +11,7 @@
 
 ### who i am
 
-I'm a **Junior Product Analyst at Truleague** (Riverhouse Technologies) — a B2B SaaS startup. 
+I'm a **Product Analyst For Truleague SAAS Product**. 
 
 ### 📈 activity
 
